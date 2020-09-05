@@ -9,3 +9,5 @@ npm install <package>
 
 
 node .
+
+[![Run on Repl.it](https://repl.it/badge/github/outlaylol/EconomyBot)](https://repl.it/github/outlaylol/EconomyBot)
